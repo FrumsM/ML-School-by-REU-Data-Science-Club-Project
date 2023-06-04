@@ -1,5 +1,5 @@
-# ML-School-by-REU-Data-Science-Club-Final-Project
-Forecasting in-store sales (sales) based on the database of Corporación Favorita, a large equatorial food retail store.
+# ML-School-by-REU-Data-Science-Club-Project
+Forecasting in-store sales (sales) based on the database of Corporación Favorita, a large equatorial food retail store using CatBoost, XGB, LGBM
 
 File Descriptions and Data Field Information
 
